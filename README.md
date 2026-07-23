@@ -81,6 +81,7 @@ Project objectives:
 ![3dscene](https://github.com/user-attachments/assets/4e3a08a3-7717-4f38-b77c-b955250f9a5a)
 
 
-## Authors
-
-Developed as part of a master's thesis.
+### Contributors
+Anastasia Popova
+Alyona Syrykh
+Gleb Bondarenko
